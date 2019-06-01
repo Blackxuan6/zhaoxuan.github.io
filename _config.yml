@@ -1,5 +1,4 @@
 # Basic
-# asdsad
 title: 赵轩
 subtitle: 个人站
 description: 欢迎来到我的个人站~
@@ -17,13 +16,9 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
-    # zhihu: panpanleopard
-    # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    github: https://github.com/Blackxuan6/
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: zp1134207368@gmail.com
 
 
 # 百度统计 
@@ -36,17 +31,6 @@ baidu:
 ga:
     id: xxxx  
     host: auto  
-
-
-# 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
-#
-#
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
-
 
 permalink: /:year/:month/:title/
 # Format
